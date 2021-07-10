@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="GBPRO">GBPRO</string>
+    <string-array name="telas">
+        <item>Tela1</item>
+        <item>Tela2</item>
+        <item>Tela3</item>
+        <item>Tela4</item>
+        <item>Tela5</item>
+    </string-array>
+
+    <string-array name="autor">
+        <item>Autor1</item>
+        <item>Autor2</item>
+        <item>Autor3</item>
+        <item>Autor4</item>
+        <item>Autor5</item>
+    </string-array>
+</resources>
